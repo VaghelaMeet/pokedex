@@ -1,4 +1,4 @@
-# 🧢 Pokedex App
+# Pokedex App
 
 Welcome to the **Pokédex App** – a beautiful and fully responsive React web application that lets users browse, search, and explore Pokémon in style!
 
