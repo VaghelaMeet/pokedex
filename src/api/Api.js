@@ -17,7 +17,7 @@ const Api2 = "https://pokeapi.co/api/v2/pokemon"; // pokemon detail
 export const fetchPokeDetail = async (id) => {
   try {
     let res = await fetch(`${Api2}/${id}`);
-    console.log("res", res);
+    // console.log("res", res);
     let data = await res.json();
     return data;
   } catch (error) {

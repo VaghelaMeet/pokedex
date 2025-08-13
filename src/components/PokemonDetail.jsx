@@ -191,7 +191,7 @@ const PokemonDetail = () => {
       </div>
 
       {/* Evolutions */}
-      <div className="bg-white mx-61 mt-5 mb-2 rounded-2xl shadow-2xl">
+      <div className="bg-white mx-40 mt-5 mb-2 rounded-2xl shadow-2xl">
         <h1 className="text-3xl font-bold underline p-5">Evolutions</h1>
         <div className="flex justify-center gap-20 p-5">
           {evolution.map((poke) => (
